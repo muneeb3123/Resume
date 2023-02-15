@@ -45,11 +45,14 @@ body {
 
 header {
   background-color: #fff;
-  border-bottom-left-radius: 80px;
-  gap: 12px;
+  /* border-bottom-left-radius: 80px; */
+  /* gap: 12px; */
 }
 
 .Headline {
+  background-color: #fff;
+  border-bottom-left-radius: 80px;
+  gap: 12px;
   background-image: url(./images/header-bg.png);
   background-position: center;
   background-repeat: no-repeat;
